@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin top: 0;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  color:rgb(74,177,154);
+
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.jade-green{
+  color: rgb(74,177,154);
+}
+.grey-team{
+  color: rgb(112,84,93);
+
+}
+hr{
+  background-color: none;
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e5e5e5;
+ border-width: 5px;
+ width: 5%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.heading-style{
+  font-family: Montserrat, Tempus Sans ITC, Helvetic Neue, Arial, monospace;
+  font-size: 312.5%;
+}
+.law{
+  font-family: Arial, Helvetica, serif;
+bottom: 20px;
+font-size: 25px;
+
+}
+.middle-container{
+  font-family: sans-serif;
+}
+.images-styling{
+  width: 175px;
+}
+.images-styling-1{
+  width: 175px;
+}
+.images-styling-2{
+  width: 500px;
+}
+
+.contact-me-button{
+  margin-right: 20px;
+;
+  margin-right: 20px;
+
+}
+.skills{
+  margin:25px 0 0 200px;
+}
+
+.grey-team-1{
+  color: rgb(  112,84,93  );
+}
+.jade-green-1{
+  color: rgb(74,177,154);
+}
+.images-styling-45{
+  width: 175px;
